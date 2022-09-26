@@ -1,6 +1,6 @@
 Dependencies(versions) for the above code:
 
-python == 3.6.6
+Python == 3.6.6
 
 tensorflow-gpu == 1.10.0
 
