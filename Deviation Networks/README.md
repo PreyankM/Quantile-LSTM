@@ -23,3 +23,6 @@ matplotlib == 3.2
 ipykernel == 5.1.1
 
 h5py == 2.10.0
+
+
+For the execution of this code, follow the order in which the files are executed by the DevNet.ipynb, from cell 3 onwards.
