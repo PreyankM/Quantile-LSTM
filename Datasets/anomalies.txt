@@ -1,0 +1,7 @@
+traveltime_387 - 2003,5059,168
+traveltime_451 - 3106
+occupancy_6005 - 22.28
+occupancy_t4013 - 38.83,43.06
+speed_6005 - 28
+speed_7578 - 23,8,32,1
+speed_t4013 - 15,11
